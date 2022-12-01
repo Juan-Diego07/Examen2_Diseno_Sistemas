@@ -39,9 +39,9 @@ public class Aguinaldo {
         
         float amount = 1000000;
         float a = 0;
-        a = findbonus(startDate,endDate,amount );
+        as = findbonus(startDate,endDate,amount );
         
-         System.out.println(a);
+         System.out.println(as);
         
     }
     
